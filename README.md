@@ -28,7 +28,7 @@ Mrs. Vijay Mourya M.Tech AI | Python & AI Enthusiast
 
 ## 📦 Installation
 Clone this repository: [ please use your own API]
+
 https://github.com/Vijaymourya6464/Weather_details_API 
 
-   git clone https://github.com/your-username/WeatherApp.git
-   cd WeatherApp
+   
